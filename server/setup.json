@@ -1,0 +1,12 @@
+[
+    {
+        "cns": "snes",
+        "emu": "zsnes",
+        "parameters": "-v 11"
+    },
+    {
+        "cns": "genesis",
+        "emu": "gens",
+        "parameters": "--fs"
+    }
+]
